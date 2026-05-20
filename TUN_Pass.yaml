@@ -7,4 +7,4 @@ payload:
   - PROCESS-NAME,html5app_steam.exe
   - PROCESS-NAME,steamwebhelper.exe
   - PROCESS-NAME,Antigravity.exe
-  - PROCESS-PATH-REGEX,*Antigravity*
+  - PROCESS-PATH-REGEX,.*Antigravity.*
