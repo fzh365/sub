@@ -3,7 +3,5 @@ payload:
   - IN-TYPE,inner
   - PROCESS-NAME,clash-verge.exe
   - PROCESS-NAME,chrome.exe
-  - PROCESS-NAME,steam.exe
-  - PROCESS-NAME,html5app_steam.exe
-  - PROCESS-NAME,steamwebhelper.exe
-  - PROCESS-PATH-REGEX,(?i).*Antigravity.*
+  - 'PROCESS-PATH-REGEX,(?i).*\\Steam\\.*'
+  - 'PROCESS-PATH-REGEX,(?i).*Antigravity.*'
