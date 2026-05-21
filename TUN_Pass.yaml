@@ -2,6 +2,6 @@ payload:
   - IN-PORT,7897
   - IN-TYPE,inner
   - PROCESS-NAME,clash-verge.exe
-  - PROCESS-NAME,chrome.exe
+  - 'PROCESS-PATH-REGEX,(?i).*\\Google\\Chrome\\Application\\.*'
   - 'PROCESS-PATH-REGEX,(?i).*\\Steam\\.*'
   - 'PROCESS-PATH-REGEX,(?i).*Antigravity.*'
