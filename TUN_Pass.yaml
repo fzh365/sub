@@ -1,5 +1,6 @@
 payload:
   - IN-PORT,7897
+  - IN-PORT,7890
   - IN-TYPE,inner
   - PROCESS-NAME,clash-verge.exe
   - 'PROCESS-PATH-REGEX,(?i).*\\Google\\Chrome\\Application\\.*'
