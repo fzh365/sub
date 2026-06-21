@@ -4,4 +4,5 @@ payload:
   - PROCESS-NAME,com.anthropic.claude
   - PROCESS-NAME,ai.x.grok 
   - DOMAIN,integrate.api.nvidia.com
+  - DOMAIN,muyuan.do
   - DOMAIN,anyrouter.top
