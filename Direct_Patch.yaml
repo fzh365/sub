@@ -1,7 +1,4 @@
 payload: 
-  #LINUX DO
-  - DOMAIN-SUFFIX,linux.do
-  - DOMAIN-SUFFIX,ldstatic.com
   #m-team
   - DOMAIN-KEYWORD,m-team
   - DOMAIN,tra99.manfuz.co
