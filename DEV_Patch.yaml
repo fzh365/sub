@@ -1,0 +1,7 @@
+payload: 
+  # docker补充
+  - DOMAIN-SUFFIX,dockerhub.com,Developer
+  # openvsx相关
+  - DOMAIN-SUFFIX,open-vsx.org,Developer
+  - DOMAIN-SUFFIX,eclipsecontent.org,Developer
+  - DOMAIN-KEYWORD,openvsx,Developer
