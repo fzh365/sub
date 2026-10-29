@@ -5,7 +5,11 @@ payload:
   - PROCESS-NAME,ai.x.grok
   - PROCESS-NAME,ai.x.grok.bot
   - PROCESS-NAME,Grok Bot.exe
-  #- DOMAIN-SUFFIX,cursorvm.com
+  - DOMAIN-SUFFIX,cursor-cdn.com
+  - DOMAIN-SUFFIX,cursor.com
+  - DOMAIN-SUFFIX,cursor.sh
+  - DOMAIN-SUFFIX,cursorapi.com
+  - DOMAIN-SUFFIX,cursorvm.com
   
   - DOMAIN,integrate.api.nvidia.com
   - DOMAIN-SUFFIX,muyuan.do
