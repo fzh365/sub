@@ -1,7 +1,10 @@
 payload: 
   - PROCESS-NAME,com.openai.chatgpt
   - PROCESS-NAME,com.anthropic.claude
-  - PROCESS-NAME,ai.x.grok 
+  - PROCESS-NAME,ai.x.grok
+  - PROCESS-NAME,ai.x.grok.bot
+  - PROCESS-NAME,Grok Bot.exe
+  - DOMAIN,cursorvm.com
   - DOMAIN,integrate.api.nvidia.com
   - DOMAIN,muyuan.do
   - DOMAIN,anyrouter.top
