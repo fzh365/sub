@@ -9,4 +9,4 @@ payload:
   - 'PROCESS-PATH-REGEX,(?i).*\\Google\\Chrome\\Application\\.*'
   - 'PROCESS-PATH-REGEX,(?i).*\\Steam\\.*'
   - 'PROCESS-PATH-REGEX,(?i).*Antigravity.*'
-  - 'PROCESS-PATH-REGEX,(?i).*agy.*'
+  - PROCESS-NAME,agy.exe
